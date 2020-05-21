@@ -1,4 +1,4 @@
-# yfinance_streaming_aws_kinesis
+# Streaming Finance Data with AWS Lambda
 Working through provisioning Lambda functions to generate finance data for downstream processing and querying
 
 ## Appendix A
