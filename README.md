@@ -3,8 +3,8 @@ Working through provisioning Lambda functions to generate finance data for downs
 
 ## Appendix A
 ### DataCollector Lambda Configuration Page
-![](assets/Appendix_A_DataCollector_Lambda_configuration_page.PNG)
+![](assets/Appendix_A_DataCollector_Lambda_configuration_page.png)
 
 ## Appendix B
 ### Kinesis Data Firehouse Delivery Stream Monitoring
-![](assets/Appendix_B_Kinesis_Data_Firehose_Delivery_Stream_Monitoring.PNG)
+![](assets/Appendix_B_Kinesis_Data_Firehose_Delivery_Stream_Monitoring.png)
