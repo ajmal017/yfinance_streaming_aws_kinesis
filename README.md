@@ -18,11 +18,11 @@ The setup process begins with creating an AWS Kinesis Firehose Delivery Stream t
 4. results.csv - query results
 5. Assets - Images of Setup in Appendix (see below)
 
-## Data Resource
-[yfinance: Yahoo! Finance market data downloader](https://pypi.org/project/yfinance/)
-Companies: Facebook (FB), Shopify (SHOP), Beyond Meat (BYND), Netflix (NFLX), Pinterest (PINS), Square (SQ), The Trade Desk (TTD), Okta (OKTA), Snap (SNAP), Datadog (DDOG)
-Date: May 14, 2020
-Interval: 1m
+## Data Resource <br />
+[yfinance: Yahoo! Finance market data downloader](https://pypi.org/project/yfinance/) <br />
+Companies: Facebook (FB), Shopify (SHOP), Beyond Meat (BYND), Netflix (NFLX), Pinterest (PINS), Square (SQ), The Trade Desk (TTD), Okta (OKTA), Snap (SNAP), Datadog (DDOG) <br />
+Date: May 14, 2020 <br />
+Interval: 1m <br />
 
 ## Appendix A
 ### DataCollector Lambda Configuration Page
