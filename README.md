@@ -8,6 +8,7 @@ Uses a lambda function to transform and send data into s3 <br />
 ## 3. DataAnalyzer <br />
 Process that allows for the querying of the sample data sent to s3
 
+## Workflow <br />
 The setup process begins with creating an AWS Kinesis Firehose Delivery Stream that has the function mented above that can transform our data in the proper format and deliver to an s3 bucket. The next step involves setting up a simple Lambda function, the DataCollector, that takes the desired stock data and puts it into the DataTranformer stream workflow. After utilizing the Kinesis, Lambda and s3 products, we also are able to leverage Athena and Glue. In order to query our data for any analysis we have to first point a Glue Crawler at the created s3 bucket in tandem with the functionality of Athena, the DataAnalyzer.
 
 ## Documents <br />
