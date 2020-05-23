@@ -19,6 +19,7 @@ The setup process begins with creating an AWS Kinesis Firehose Delivery Stream t
 2. data_collector.py - lambda source code for the DataCollector
 3. query.sql - query used to generate results.csv file for highest hourly stock high per company
 4. results.csv - query results
+5. Analysis.ipynb - visualizations of results query
 5. Assets - Images of Setup in Appendix (see below)
 
 ## Data Resource <br />
